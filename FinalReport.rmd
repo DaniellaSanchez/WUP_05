@@ -76,3 +76,5 @@ Null hypothesis ratio is equal one. We can reject the null one hypothesis.
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The steps we went over where how to see who would get the aids worse the females or male and which percentage is higher the drugs or placebo. 
